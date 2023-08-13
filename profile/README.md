@@ -1,4 +1,17 @@
-## Hi there 👋
+# Negative_Light Media
+
+Negative Light Media (NLM) is the creation of Youtuber [Negative_Light](https://youtube.com/@Negative_Light). Although not all of these repositories, projects, and notes are owned by NLM they are maintained by us.
+
+## Links
+[Negative_light's Linktree](linktr.ee/Negative_light)
+
+## Contributing
+
+Please see our [Contributing](../CONTRIBUTING.md) for general guidelines on how to contribute to our projects. Each Team and Project have their own contributing files that may override sections of this contributing file.
+
+## Resources
+** This Section is in Progress **
+
 
 <!--
 
