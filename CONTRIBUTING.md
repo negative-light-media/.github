@@ -38,5 +38,6 @@ If you have any questions, please reach out to us via [email](mailto:code@negati
 
 Thank you for contributing to Negative-Light-Media, and we look forward to collaborating with you!
 
-> [!NOTE] Disclaimer
+> [!NOTE]
+> Disclaimer
 > This contributing file was made with help from CHAT GPT 4
