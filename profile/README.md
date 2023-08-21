@@ -7,7 +7,7 @@ Negative Light Media (NLM) is the creation of Youtuber [Negative_Light](https://
 
 ## Contributing
 
-Please see our [Contributing](../CONTRIBUTING.md) for general guidelines on how to contribute to our projects. Each Team and Project have their own contributing files that may override sections of this contributing file.
+Please see our [Contributing](https://github.com/negative-light-media/.github/blob/main/CONTRIBUTING) for general guidelines on how to contribute to our projects. Each Team and Project have their own contributing files that may override sections of this contributing file.
 
 ## Resources
 ** This Section is in Progress **
