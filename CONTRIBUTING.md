@@ -26,7 +26,7 @@ Because there are various types of projects here we do not have a single coding 
 
 ### Testing
 
-When contributing code it helps if you test it out first. Provide information about any tests that you have run, including steps to fix any bug.
+When contributing code please test it out first. Provide information about any tests that you have run, including steps to fix any bug. This helps us make sure that all of our code meets our requirements and ensures that bugs are fixed.
 
 ## Review Process
 
